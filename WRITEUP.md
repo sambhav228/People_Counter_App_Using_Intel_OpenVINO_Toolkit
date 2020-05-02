@@ -1,5 +1,10 @@
 # Project Write-Up
 
+
+PLEASE, READ THE PDF DOCUMENT I ATTACHED (WRITEUP.pdf)
+
+
+
 You can use this document as a template for providing your project write-up. However, if you
 have a different format you prefer, feel free to use it as long as you answer all required
 questions.

@@ -4,6 +4,8 @@ The people counter application demonstrates how to create a smart video IoT solu
 
 Youtube Link : https://www.youtube.com/watch?v=8557XLlt1p8&t=60s
 
+Blog Link: https://sambhavprojects.blogspot.com/2020/07/People-Counter-App.html
+
 
 ![screenshot_1](https://github.com/sambhav228/People_Counter_App_Using_Intel_OpenVINO_Toolkit/blob/master/images/1.jpg)
 
